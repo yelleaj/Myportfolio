@@ -1,0 +1,30 @@
+[
+    {
+      "role": "Software Engineer",
+      "organisation": "Genamplify Solution Hub Pvt Ltd",
+      "startDate": "Dec, 2023",
+      "endDate": "Present",
+      "experiences": ["Worked on Employees Management System Project"],
+      "imageSrc": "history/Genlogo.png"
+    },
+    {
+      "role": "UI Designer",
+      "organisation": "Genamplify Solution Hub Pvt Ltd",
+      "startDate": "Dec, 2023",
+      "endDate": "Present",
+      "experiences": ["Designed the Employees Management System Project"],
+      "imageSrc": "history/Genlogo.png"
+    },
+    {
+      "role": "Product Support Intern",
+      "organisation": "Next Education Pvt Ltd",
+      "startDate": "Apr, 2023",
+      "endDate": "Dec, 2023",
+      "experiences": [
+        "Worked on Frontend Development for Report Cards And ID Cards",
+        "Helped on ERP Product Support"
+      ],
+      "imageSrc": "history/next.jpg"
+    }
+  ]
+  

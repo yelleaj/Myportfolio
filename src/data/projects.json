@@ -1,0 +1,19 @@
+[
+    {
+      "title": "Employee Management System",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to track employee Performance,Attendance, Leave Management,Hr Management,Self Services by building an app.",
+      "skills": ["Figma", "React", "Node","Postgres"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github/yelleaj.com"
+    },
+    {
+      "title": "ERP",
+      "imageSrc": "projects/project.png",
+      "description": "Helped on Frontend Development for this project, My role in this project is to design Report Cards and ID Cards and also ERP Product Support",
+      "skills": ["HTML", "CSS"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+    
+  ]
